@@ -2,7 +2,7 @@
 
 A basic splash page for brickmmo.com.
 
-## Links:
+## Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) 
 * [BrickMMO](https://www.brickmmo.com/)
