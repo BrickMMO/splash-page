@@ -2,6 +2,8 @@
 
 A basic splash page for brickmmo.com.
 
+![BrickMMO](https://github.com/codeadamca/brickmmo-splash/blob/main/screenshot-brickmmo.png?raw=true)
+
 ## Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) 
