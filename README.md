@@ -9,6 +9,6 @@ A basic splash page for brickmmo.com.
 * [Visual Studio Code](https://code.visualstudio.com/) 
 * [BrickMMO](https://www.brickmmo.com/)
 
-<a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="200">
 </a>
