@@ -1,10 +1,12 @@
 # BrickMMO Splash Page
 
-A basic splash page for brickmmo.com.
+A basic splash page for the [BrickMMO Smart City](https://brickmmo.com).
 
 ![BrickMMO](https://github.com/codeadamca/brickmmo-splash/blob/main/screenshot-brickmmo.png?raw=true)
 
-## Requirements:
+***
+
+## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 
