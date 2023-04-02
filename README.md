@@ -2,7 +2,7 @@
 
 A basic splash page for the [BrickMMO Smart City](https://brickmmo.com).
 
-![BrickMMO](https://github.com/codeadamca/brickmmo-splash/blob/main/screenshot-brickmmo.png?raw=true)
+![BrickMMO](_readme/screenshot-brickmmo.png)
 
 ***
 
