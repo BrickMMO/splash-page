@@ -4,6 +4,9 @@ A basic splash page for the [BrickMMO Smart City](https://brickmmo.com).
 
 ![BrickMMO](_readme/screenshot-brickmmo.png)
 
+> This repo is available to view at  
+> [https://brickmmo.com](https://brickmmo.com)
+
 ---
 
 ## Project Stack
